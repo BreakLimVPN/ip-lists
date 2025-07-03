@@ -22,7 +22,7 @@
 
 ![image](https://github.com/user-attachments/assets/c1979ca8-76b5-4cca-bbec-1b39ea873f0a)
 
-Выбираете все нужные файлы.
+Добавьте все нужные для вас ip сервисов, по одному файлику или используйте all_in_one.json
 
 
 
