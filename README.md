@@ -28,7 +28,7 @@
 
 Если вам нужны какие-то доп. сайты, которые не предусмотрены мной, то можете перейти на сайт https://iplist.opencck.org/
 
-Выбрать Format: Amnezia, Date Type: IPV4 Zones (CIDR)
+Выбрать Format: Amnezia, Data Type: IPV4 Zones (CIDR)
 
 ![image](https://github.com/user-attachments/assets/bfd39cb3-a574-48b1-a1dd-1586627a5aa9)
 
